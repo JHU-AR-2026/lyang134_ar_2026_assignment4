@@ -1,0 +1,41 @@
+# Place beside Assets, Packages, and ProjectSettings.
+# Adapted from https://github.com/github/gitignore/blob/main/Unity.gitignore
+
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+.utmp/
+
+# Editor-generated files
+.vs/
+.idea/
+.vscode/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep Assets, Packages, ProjectSettings, and their asset .meta files.
